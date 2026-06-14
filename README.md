@@ -1,6 +1,9 @@
 # AI Assistant Pro
-### 1. Sidebar View
-![Sidebar](sidebar.png)
+
+## 🎥 Demo Video
+
+👉 Click here to watch the demo:  
+https://drive.google.com/file/d/1IFmM41gbkLqU3W0B7Y-xPY_d49I4MG3P/view
 
 
 ## What this project does
