@@ -3,7 +3,7 @@
 ![Sidebar](sidebar.png)
 
 ### 2. AI Assistant View
-![AI Assistant](ai assistant.png)
+![AI Assistant](ai asistant.png)
 
 ### 3. Full Application View
 ![Full View](full view.png)
