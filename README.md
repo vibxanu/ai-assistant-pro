@@ -2,11 +2,7 @@
 ### 1. Sidebar View
 ![Sidebar](sidebar.png)
 
-### 2. AI Assistant View
-![AI Assistant](ai asistant.png)
 
-### 3. Full Application View
-![Full View](full view.png)
 ## What this project does
 This is an AI assistant that helps students with:
 - Summaries
