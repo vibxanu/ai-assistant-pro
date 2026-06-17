@@ -1,43 +1,50 @@
-# AI Assistant Pro
+# 🤖 AI Assistant Pro
+
+An AI-powered study assistant that helps students generate summaries, quizzes, questions, and study plans.
+
+---
 
 ## 🎥 Demo Video
 
-👉 Click here to watch the demo:  
 https://drive.google.com/file/d/1IFmM41gbkLqU3W0B7Y-xPY_d49I4MG3P/view
 
+---
 
-## What this project does
-This is an AI assistant that helps students with:
+## 🚀 Features
+
 - Summaries
 - Quiz generation
 - Questions
 - Study planning
 
-## How to run
-1. Install requirements:
-   pip install -r requirements.txt
+---
 
-2. Run app:
-   streamlit run app.py
+## ⚙️ How to Run
 
-## Features
-- AI summary generator
-- Quiz maker
-- Question generator
-- Study planner
+pip install -r requirements.txt  
+streamlit run app.py
+
+---
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-[Home Screenshot](screenshots/home.png)
+![Home](screenshots/home.png)
 
 ### 🧠 Summary
-[Summary Screenshot](screenshots/summary.png)
+![Summary](screenshots/summary.png)
 
 ### 🧾 MCQs
-[MCQs Screenshot](screenshots/mcqs.png)
+![MCQs](screenshots/mcqs.png)
 
 ### ❓ Questions
-[Questions Screenshot](screenshots/questions.png)
+![Questions](screenshots/questions.png)
 
-## Author
+### 🤖 AI Assistant UI
+![AI Assistant](screenshots/ai asistant.png)
+
+---
+
+## 👩‍💻 Author
+
 Mehak
