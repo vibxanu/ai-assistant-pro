@@ -40,8 +40,6 @@ streamlit run app.py
 ### ❓ Questions
 ![Questions](screenshots/questions.png)
 
-### 🤖 AI Assistant UI
-![AI Assistant](screenshots/ai asistant.png)
 
 ---
 
