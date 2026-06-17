@@ -25,6 +25,19 @@ This is an AI assistant that helps students with:
 - Quiz maker
 - Question generator
 - Study planner
+## 📸 Screenshots
+
+### 🏠 Home Page
+[Home Screenshot](screenshots/home.png)
+
+### 🧠 Summary
+[Summary Screenshot](screenshots/summary.png)
+
+### 🧾 MCQs
+[MCQs Screenshot](screenshots/mcqs.png)
+
+### ❓ Questions
+[Questions Screenshot](screenshots/questions.png)
 
 ## Author
 Mehak
